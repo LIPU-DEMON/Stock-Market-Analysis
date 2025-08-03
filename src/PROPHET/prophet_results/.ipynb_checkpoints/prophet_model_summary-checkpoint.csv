@@ -1,0 +1,6 @@
+Stock,Best_CP,Seasonality_Mode,RMSE_Test,MAE_Test
+Apple_prophet,0.05,additive,21.9494,17.9902
+GeneralElectric_prophet,0.5,multiplicative,85.0675,61.033
+IBM_prophet,0.5,multiplicative,71.5466,52.1495
+Johnson&Johnson_prophet,0.05,additive,21.8218,17.8468
+Microsoft_prophet,0.05,multiplicative,41.5342,34.9587

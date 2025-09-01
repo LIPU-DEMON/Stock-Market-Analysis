@@ -10,8 +10,11 @@
 ## Tech stack
 
 <li>Python 3</li>
-<li>Pandas,Numpy</li>
-<li>ta,</li>
+<li>Pandas,Numpy,ta</li>
+<li>Matplotlib,Seaborn,Plotly</li>
+<li>Scikit-learn,Statstools,Tensorflow,Keras</li>
+<li>Powerbi</li>
+<li>Streamlit</li>
 
 # Demonstrations
 ## LSTM

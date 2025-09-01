@@ -13,12 +13,10 @@ VWAP (Volume-Weighted Average Price)</li>
 
 ## Tech stack
 
-<li>Python 3</li>
-<li>Pandas,Numpy,ta</li>
-<li>Matplotlib,Seaborn,Plotly</li>
-<li>Scikit-learn,Statstools,Tensorflow,Keras</li>
-<li>Powerbi</li>
-<li>Streamlit</li>
+<li>Languages & Libraries: Python 3, Pandas, NumPy, TA-Lib</li>
+<li>Visualization: Matplotlib, Seaborn, Plotly, Power BI</li>
+<li>Machine Learning & Forecasting: Scikit-learn, Statsmodels, TensorFlow, Keras</li>
+<li>Deployment & BI: Streamlit, Power BI</li>
 
 # Demonstrations
 ## LSTM

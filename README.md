@@ -1,11 +1,15 @@
 ## Features
 
-<li>Data Preparation using Yfinance API for Companies Apple,Microsoft,IBM,Jhonson&Jhonson and General Electric</li>
-<li>Data Preprocessing for each stock companies.</li>
-<li>Implemented Technical indicators(EMA(Exponential moving average),SMA(Simple moving average),RSI(Relative strength index) and WVAP(Weighted volume avg price)) on each companies</li>
-<li>Extracted and visualized insights from each companies historical patterns(2005-2025).</li>
-<li>Implemented LSTM and time-series forecasting models ARIMA,SARIMA and Facebook Prophet on each companies for long and short term period.</li>
-<li>Demonstrated using Streamlit</li>
+<li>Data Preparation: Used YFinance API to fetch stock data for Apple, Microsoft, IBM, Johnson & Johnson, and General Electric.</li>
+<li>Preprocessing: Cleaned and structured stock datasets for consistent analysis.</li>
+<li>Technical Indicators: Implemented
+EMA (Exponential Moving Average)
+SMA (Simple Moving Average)
+RSI (Relative Strength Index)
+VWAP (Volume-Weighted Average Price)</li>
+<li>EDA: Extracted trends and visualized historical stock patterns (2005–2025).</li>
+<li>Forecasting Models: Built and compared LSTM, ARIMA, SARIMA, and Facebook Prophet models for both short-term and long-term predictions.</li>
+<li>Demonstrations: Built an interactive dashboard using Streamlit.</li>
 
 ## Tech stack
 
